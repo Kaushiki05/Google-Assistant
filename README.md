@@ -1,2 +1,2 @@
-# Google-Assisstant
-A prototype of Google Assisstant using Python 
+# Google-Assistant
+A prototype of Google Assistant using Python 
