@@ -11,13 +11,6 @@ r=sr.Recognizer()
 import webbrowser as wb
 
 qapairs = (
-    (r'aaj(.*)day(.*)',
-     ('aaj to sunday hai', 'its Sunday')
-     ),
-    ('shaam(.*)khane(.*)',
-     ('khud pata kar lena','jiji se puch lo',
-      'prerna ne bola fried idli khane %2')
-     ),
     (r'(.*)search(.*)for me',
      ('Yeah sure', 'Yes I am searching%2for you')
     ),
